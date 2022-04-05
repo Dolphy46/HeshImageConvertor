@@ -21,3 +21,5 @@ To get started, you need to agree on the following steps:
 After the completed steps, the program will start working.
 After the completion of the process of fulfilling the specified conditions, the user can view the HASH value of the file and the PNM image itself.
 View image in PNM format: https://filext.com/en/rasshirenie-faila/PNM.
+
+Выполнили: Леденева Валерия По-81б и Рудаков Роман По-82б.
